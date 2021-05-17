@@ -1,0 +1,12 @@
+body {
+    background-color: #e2ece9 ;
+    font-size: 18px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.heading {
+    font-size: 3rem;
+    color: #f45608;
+}
